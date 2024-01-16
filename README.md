@@ -5,7 +5,7 @@
 
 <h3>Languages and Tools:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,nodejs,express,postman,mongodb,react," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,nodejs,express,postman,mongodb,react," />
   </a>
 <!--
 **anasraza07/anasraza07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
