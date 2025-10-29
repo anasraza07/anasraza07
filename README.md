@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anas Raza
 
-## Frontend developer
+## Frontend developer who enjoys building user-friendly web applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasraza07&label=Profile%20views&color=0e75b6&style=flat" alt="anasraza07" /> </p>
 
